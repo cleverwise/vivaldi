@@ -16,7 +16,7 @@ I have used "vivaldi-debian-bash.sh" in my environment. However since I prefer D
 
 Also both scripts are written to run, on their own, after download, and execute permission set.  However, obviously, one could incorporate the code into a more extensive script or call it from another.
 
-###Requirements:
+### Requirements:
 
 1) **curl** - Required for both scripts
 
