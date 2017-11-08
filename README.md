@@ -21,12 +21,17 @@ Also both scripts are written to run, on their own, after download, and execute 
 1) **curl** - Required for both scripts
 
 *Debian (Ubuntu) Based Linuxes:*
+
 shell> **sudo apt-get install curl**
 
 *RPM Linuxes:*
+
 shell> **sudo yum install curl**
- -OR-
+
+-OR-
+
 shell> **sudo dnf install curl**
   
 2) **gdebi** (ONLY for Debian Based Linuxes)
+
 shell> **sudo apt-get install gdebi**
